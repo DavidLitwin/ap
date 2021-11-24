@@ -1,14 +1,13 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+title: David Litwin
+baseurl: ""
+url: "localhost:4000"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  name: David Litwin
+  desc: Hydrologist | Ph.D. Candidate
+  email: davidglitwin@jhu.edu
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,13 +16,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
-  github: kssim
+  github: davidlitwin
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +30,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: DavidGLitwin
   vimeo:
   wordpress:
   youtube:

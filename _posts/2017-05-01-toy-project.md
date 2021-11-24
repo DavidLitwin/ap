@@ -3,7 +3,7 @@ layout: post
 title:  "Toy Project"
 info: "toy project"
 tech: "python"
-type: Toy 
+type: Toy
 ---
 
 ## Toy Project 1.
@@ -18,6 +18,6 @@ I wrote that I used python to run the project.
 You just need to describe how you made it.  
 
 
-## Duration 
+## Duration
 You can enter the period in a convenient format.   
 You may specify only the duration of your work, assuming that you create a start date in the filename.  

@@ -35,7 +35,7 @@ ap
 ├── _includes                  # theme includes
 ├── _layouts                   # theme layouts (see below for details)
 ├── _posts                     # Project & Portfolio posts
-├── _sass                      # Sass partials 
+├── _sass                      # Sass partials
 ├── portfolio                  # Main page for "portfolio"
 ├── assets
 |  ├── css                     # font-awesome and main css
@@ -88,7 +88,7 @@ social:
   dribbble:
   facebook:
   flickr:
-  github: 
+  github:
   google_plus:
   instagram:
   keybase:
@@ -100,7 +100,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: 
+  twitter:
   vimeo:
   wordpress:
   youtube:
