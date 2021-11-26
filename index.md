@@ -3,20 +3,31 @@ layout: about
 ---
 
 # About Me
-I am a Ph.D. candidate at Johns Hopkins University in Baltimore, Maryland. I am interested in the movement of water through watersheds and the effects that this can have on the long-term evolution of landscapes and ecosystems. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future. I build and use computational tools, and collect and analyze field data toward this aim.
+I am a Ph.D. candidate at Johns Hopkins University in Baltimore, Maryland (expected completion 2023). I am interested in the movement of water through watersheds and the effects that this can have on the long-term evolution of landscapes and ecosystems. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future. I build and use computational tools, and collect and analyze field data toward this aim.
 
 <br/>
 
 # Current Research
 ### *Understanding the coevolution of topography and runoff generation*
-Topography is a critical control on how water is stored and released from watersheds, while over long timescales, flowing water affects shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. I coupled a hydrological and landscape evolution model and used a combination of simulations, dimensional analysis, and analytical solutions to explore these feedbacks.
+Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In my [first PhD chapter](www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled a hydrological and landscape evolution model and used a combination of simulations, dimensional analysis, and analytical solutions to explore these feedbacks. In my second chapter, I am focusing on the evolution and emergence of variable source area runoff generation.
 
 ### *The imprint of coevolution on runoff generation and storage on watersheds with contrasting lithology*
-Landscape evolution is affected by lithology, tectonics, and climate. How do these factors interact to produce the emergent hydrological behavior we see today? I am studying two watersheds with near identical climate but contrasting lithology to understand how this has affected how they store and release water. Hydrometric data, water stable isotopes, and saturation surveys will be collected for this project.
+Landscape evolution is affected by lithology, tectonics, and climate. How do these factors interact to produce the emergent hydrological behavior we see today? I am studying two watersheds with near identical climate but contrasting lithology to understand how this affects storage and release of water. I am collecting hydrometric data, water stable isotopes, and conducting saturation surveys for this project.
 
 <br/>
 
 # Past Research
+### *Drainage divide dynamics when point sinks set baselevel*
+Steady-state drainage divides fall along the edges of Voronoi polygons separating point sinks, illuminating more general behavior of a simple landscape evolution model. See our poster [here](assets/docs/Poster_Litwin_CSDMS2019.pdf){:target="_blank"}.
+
+### *Understanding controls on the form of flow duration curves*
+Mean fluxes alone, including baseflow, quickflow, and streamflwo explain quantiles in the flow duration curve across many environmental settings, suggesting emergent behavior of watersheds. See our poster [here](assets/docs/Poster_Litwin_Meira_AGU2018.pdf){:target="_blank"}.
+
+### *Using electrical resistivity tomography to recover soil properties in a lysimeter*
+Soil properties at the Landscape Evolution Observatory in Arizona vary in space and may change with time. Theoretical modeling revealed the impact of measurement noise on our ability to determine soil porosity from ERT surveys. See our poster [here](assets/docs/Poster_Litwin_Meira_GSA2017.pdf){:target="_blank"}.
+
+### *Exploring patterns of fluid mixing downstream of small stream confluences*
+In-stream surveys of temperature, conductivity, and turbidity revealed that mixing lengths at one confluence were shorter than previously thought. See our poster [here](assets/docs/Poster_Litwin_Lewis_2016.pdf){:target="_blank"}.
 
 <br/>
 
@@ -27,7 +38,7 @@ Publications can be found on [Google Scholar](https://scholar.google.com/citatio
 <br/>
 
 # Computational tools
-Along the way I've built tools for my work that I hope can also benefit the Earth science community. All are open-source, most are well-documented and have extensive unit tests.
+I've built tools for my work that I hope can also benefit the Earth science community. All are open-source, most are well-documented and have extensive unit tests.
 * [DupuitLEM](https://github.com/DavidLitwin/DupuitLEM)\
   Modular modeling toolkit for groundwater-driven landscape evolution built with [Landlab](landlab.readthedocs.io/) tools.
 * [GroundwaterDupuitPercolator](https://landlab.readthedocs.io/en/master/reference/components/groundwater.html)\
@@ -53,4 +64,4 @@ I served on H3S for the two year term 2020-2021, helping to establish their webs
 <br/>
 
 # Interests
-I like to hike, read fiction, play the double bass, and recently have taken to sewing my own clothes. 
+I like roadside geology, hiking, writing, reading fiction, playing the double bass, and sewing my own clothes.

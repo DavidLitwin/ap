@@ -1,13 +1,14 @@
 # Site settings
-title: David Litwin
+title: David G. Litwin
 baseurl: ""
 url: "localhost:4000"
 
 # Author
 author:
-  name: David Litwin
+  name: David G. Litwin
   desc: Hydrologist | Ph.D. Candidate
-  email: davidglitwin@jhu.edu
+  descl2: Johns Hopkins University
+  email: dlitwin3@jhu.edu
   selfie: assets/img/profile.jpg
 
 # social
