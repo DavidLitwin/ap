@@ -21,7 +21,7 @@ Landscape evolution is affected by lithology, tectonics, and climate. How do the
 Steady-state drainage divides fall along the edges of Voronoi polygons separating point sinks, illuminating more general behavior of a simple landscape evolution model. See our poster [here](assets/docs/Poster_Litwin_CSDMS2019.pdf){:target="_blank"}.
 
 ### *Understanding controls on the form of flow duration curves*
-Mean fluxes alone, including baseflow, quickflow, and streamflwo explain quantiles in the flow duration curve across many environmental settings, suggesting emergent behavior of watersheds. See our poster [here](assets/docs/Poster_Litwin_Meira_AGU2018.pdf){:target="_blank"}.
+Mean fluxes, including baseflow, quickflow, and streamflow, alone explain quantiles in the flow duration curve across many environmental settings, suggesting emergent behavior of watersheds. See our poster [here](assets/docs/Poster_Litwin_Meira_AGU2018.pdf){:target="_blank"}.
 
 ### *Using electrical resistivity tomography to recover soil properties in a lysimeter*
 Soil properties at the Landscape Evolution Observatory in Arizona vary in space and may change with time. Theoretical modeling revealed the impact of measurement noise on our ability to determine soil porosity from ERT surveys. See our poster [here](assets/docs/Poster_Litwin_Meira_GSA2017.pdf){:target="_blank"}.
