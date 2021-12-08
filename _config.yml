@@ -1,7 +1,7 @@
 # Site settings
 title: David G. Litwin
 baseurl: "/ap"
-url: localhost:4000 # "davidlitwin.github.io"
+url: "davidlitwin.github.io" # localhost:4000 # 
 
 # Author
 author:
