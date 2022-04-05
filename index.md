@@ -3,14 +3,14 @@ layout: about
 ---
 
 # About Me
-I am a Ph.D. candidate at Johns Hopkins University in Baltimore, Maryland (expected completion 2023). I am interested in the movement of water through watersheds and the effects that this can have on the long-term evolution of landscapes and ecosystems. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future. I build and use computational tools, and collect and analyze field data toward this aim.
+I am a Ph.D. candidate at Johns Hopkins University in Baltimore, Maryland (expected degree in 2023). I am interested in the movement of water through watersheds and how this affects the long-term evolution of landscapes and ecosystems. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future. I build and use numerical models, and collect and analyze field data toward this aim.
 
 <br/>
 
 # Current Research
 ### *Understanding the coevolution of topography and runoff generation*
 <img align="left" width="800" src="assets/img/hillshades.png"><br />
-Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In my [first PhD chapter](https://www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled a hydrological and landscape evolution model and used a combination of simulations, dimensional analysis, and analytical solutions to explore these feedbacks (PDF [here](assets\docs\JGREarthSurface-2021-Litwin.pdf)). In my second chapter, I am using a similar approach to examine the evolution and emergence of variable source area runoff generation.
+Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In my [first PhD chapter](https://www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled hydrological and landscape evolution models and used a combination of simulations, dimensional analysis, and analytical solutions to explore these feedbacks (PDF [here](assets\docs\JGREarthSurface-2021-Litwin.pdf)). My second and third chapters will focus on exploring the hydrological and geomorphic features respectively of landscapes that coevolve with dynamic climate, soil moisture, and groundwater. I'm keenly interested in understanding the role of coevolution in the emergence of variable source area runoff generation.
 
 ### *The imprint of coevolution on runoff generation and storage on watersheds with contrasting lithology*
 <img align="left" width="800" src="assets/img/soldiers_delight.JPG"><br />
@@ -59,7 +59,7 @@ My C.V. is [here](assets/docs/CV_David_Litwin_current.pdf){:target="_blank"}.
 
 # Science Communication and Service
 * [Water Underground](https://blogs.egu.eu/network/water-underground/){:target="_blank"}\
-Starting in 2022 I will be a co-editor of the Water Underground blog hosted by the American Geophysical Union and the European Geosciences Union.
+I am a co-editor of the Water Underground blog hosted by the American Geophysical Union and the European Geosciences Union.
 * [Geobites](https://geobites.org/author/dlitwin/){:target="_blank"}\
 I write accessible summaries of peer-reviewed hydrology and geomorphology articles for science-curious audiences.
 * [American Geophysical Union Hydrology Section Student Subcommittee (H3S)](agu-h3s.org/){:target="_blank"}\
