@@ -3,18 +3,21 @@ layout: about
 ---
 
 # About Me
-I am a Ph.D. candidate at Johns Hopkins University in Baltimore, Maryland (expected degree in 2023). I am interested in the movement of water through watersheds and how this affects the long-term evolution of landscapes and ecosystems. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future. I build and use numerical models, and collect and analyze field data toward this aim.
+I am a Ph.D. candidate at Johns Hopkins University in Baltimore, Maryland, expecting degree in May 2023. In my work I integrate processes across timescales to understand the hydrological function and structure of the critical zone. I often take a long-term perspective, thinking about how hydrology links climate, tectonics, and lithology to critical zone form and evolution. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future.
 
 <br/>
 
 # Current Research
 ### *Understanding the coevolution of topography and runoff generation*
 <img align="left" width="800" src="assets/img/hillshades.png"><br />
-Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In my [first PhD chapter](https://www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled hydrological and landscape evolution models and used a combination of simulations, dimensional analysis, and analytical solutions to explore these feedbacks (PDF [here](assets\docs\JGREarthSurface-2021-Litwin.pdf)). My second and third chapters will focus on exploring the hydrological and geomorphic features respectively of landscapes that coevolve with dynamic climate, soil moisture, and groundwater. I'm keenly interested in understanding the role of coevolution in the emergence of variable source area runoff generation.
+Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In particular, they don't capture the importance of shallow subsurface flow for runoff generation. In my [first PhD paper](https://www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled hydrological and landscape evolution models and found we showed that hillslope length scales nonlinearly with subsurface transmissivity (permeability times thickness) under the influence of steady recharge (PDF [here](assets\docs\JGREarthSurface-2021-Litwin.pdf)).
 
-### *The imprint of coevolution on runoff generation and storage on watersheds with contrasting lithology*
+### *The emergence of variable source area hydrology*
+In my second paper I took this model further, focusing on how the hydrological function of landscapes coevolves with dynamic climate, soil moisture, and groundwater. I'm particularly interested in the emergence of variable source area runoff generation. In other words, I'm interested in knowing why some places evolve to have saturated areas that expand and contract in response to storms, while others don't. We found that coevolution produces a strong relationship between variably saturated area and relief, and where a landscape sits on that relationship is conditioned by subsurface permeability and thickness relative to climate. Preprint will be available soon!
+
+### *Coevolved topography and runoff generation: a paired watershed study*
 <img align="left" width="800" src="assets/img/soldiers_delight.JPG"><br />
-Landscape evolution is affected by lithology, tectonics, and climate. How do these factors interact to produce the emergent hydrological behavior we see today? I am studying two watersheds with near identical climate but contrasting lithology to understand how this affects storage and release of water. I am collecting hydrometric data, water stable isotopes, and conducting saturation surveys for this project.
+How does the subsurface affect coevolved topography and runoff generation? This is a central question in [critical zone science](https://criticalzone.org/bedrock){:target="_blank"}, and has implications for how different landscapes will respond to climate change and water stress. Our model makes predictions that subsurface transmissivity is a primary control on topography and runoff generation. I'm making hydrometric measurements, conducting saturation surveys, and analyzing topography of two small watersheds with contrasting lithology to test model predictions.
 
 <br/>
 
@@ -27,9 +30,6 @@ Mean fluxes, including baseflow, quickflow, and streamflow, alone explain quanti
 
 ### *Using electrical resistivity tomography to recover soil properties in a lysimeter*
 Soil properties at the Landscape Evolution Observatory in Arizona vary in space and may change with time. Theoretical modeling revealed the impact of measurement noise on our ability to determine soil porosity from ERT surveys. See our poster [here](assets/docs/Poster_Litwin_Meira_GSA2017.pdf){:target="_blank"}.
-
-### *Exploring patterns of fluid mixing downstream of small stream confluences*
-In-stream surveys of temperature, conductivity, and turbidity revealed that mixing lengths at one confluence were shorter than previously thought. See our poster [here](assets/docs/Poster_Litwin_Lewis_2016.pdf){:target="_blank"}.
 
 <br/>
 
