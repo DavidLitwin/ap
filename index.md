@@ -3,16 +3,20 @@ layout: about
 ---
 
 # About Me
-I am a Ph.D. candidate at Johns Hopkins University in Baltimore, Maryland (expected completion 2023). I am interested in the movement of water through watersheds and the effects that this can have on the long-term evolution of landscapes and ecosystems. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future. I build and use computational tools, and collect and analyze field data toward this aim.
+I am a postdoctoral fellow at GFZ Potsdam, the German Research Center for Geosciences, in the Earth Surface Process Modelling section. I completed my Ph.D. at Johns Hopkins University in Baltimore, Maryland in 2023. I am interested in the movement of water through watersheds and the effects that this can have on the long-term evolution of landscapes and ecosystems. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future. I build and use computational tools, and collect and analyze field data toward this aim.
 
 <br/>
 
 # Current Research
-### *Understanding the coevolution of topography and runoff generation*
-Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In my [first PhD chapter](www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled a hydrological and landscape evolution model and used a combination of simulations, dimensional analysis, and analytical solutions to explore these feedbacks. In my second chapter, I am focusing on the evolution and emergence of variable source area runoff generation.
+### *Groundwater and landscape evolution*
+My work at GFZ will be centered on the role of groundwater in processes that shape landscapes over long timescales. Project is TBD!
 
-### *The imprint of coevolution on runoff generation and storage on watersheds with contrasting lithology*
-Landscape evolution is affected by lithology, tectonics, and climate. How do these factors interact to produce the emergent hydrological behavior we see today? I am studying two watersheds with near identical climate but contrasting lithology to understand how this affects storage and release of water. I am collecting hydrometric data, water stable isotopes, and conducting saturation surveys for this project.
+# Doctoral Research
+### *Understanding the coevolution of topography and runoff generation*
+Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In my [first PhD chapter](www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled a hydrological and landscape evolution model and used a combination of simulations, dimensional analysis, and analytical solutions to explore these feedbacks. In my [second PhD chapter](www.doi.org/10.22541/essoar.167751635.59156916/v1){:target="_blank"}, I focused on the evolution and emergence of variable source area runoff generation.
+
+### *The imprint of coevolution on runoff generation and morphology in watersheds with contrasting lithology*
+The structure of the subsurface is an important control where and how much runoff is generated in response to precipitation. Our modeling work suggests that it should also be an important control on landscape morphology as a result. To test this hypothesis I conducted a natural experiment, comparing two watersheds with strong lithology-driven contrast in subsurface properties but otherwise similar climate and geologic history. The project involved new hydrometric measurements and saturation surveys, in addition to DEM analysis and landscape evolution modeling. Paper is in prep.
 
 <br/>
 
@@ -51,7 +55,7 @@ I've built tools for my work that I hope can also benefit the Earth science comm
 <br/>
 
 # Curriculum Vitae
-My C.V. is [here](assets/docs/CV_David_Litwin_current.pdf){:target="_blank"}.
+My C.V. is [here](assets/docs/DavidLitwinCV.pdf){:target="_blank"}.
 
 <br/>
 

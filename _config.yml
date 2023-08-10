@@ -5,10 +5,10 @@ url: "localhost:4000"
 
 # Author
 author:
-  name: David G. Litwin
-  desc: Hydrologist | Ph.D. Candidate
-  descl2: Johns Hopkins University
-  email: dlitwin3@jhu.edu
+  name: David G. Litwin, Ph.D
+  desc: Hydrologist | Postdoctoral Researcher
+  descl2: Helmholtz Center GFZ Potsdam
+  email: david.litwin@gfz-potsdam.de
   selfie: assets/img/profile.jpg
 
 # social
