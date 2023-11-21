@@ -13,10 +13,15 @@ My work at GFZ will be centered on the role of groundwater in processes that sha
 
 # Doctoral Research
 ### *Understanding the coevolution of topography and runoff generation*
-Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In my [first PhD chapter](www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled a hydrological and landscape evolution model and used a combination of simulations, dimensional analysis, and analytical solutions to explore these feedbacks. In my [second PhD chapter](www.doi.org/10.22541/essoar.167751635.59156916/v1){:target="_blank"}, I focused on the evolution and emergence of variable source area runoff generation.
+<img align="left" width="800" src="assets/img/hillshades.png"><br />
+Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In particular, they don't capture the importance of shallow subsurface flow for runoff generation. In my [first PhD paper](https://www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled hydrological and landscape evolution models and found we showed that hillslope length scales nonlinearly with subsurface transmissivity (permeability times thickness) under the influence of steady recharge (PDF [here](assets\docs\JGREarthSurface-2021-Litwin.pdf)).
 
-### *The imprint of coevolution on runoff generation and morphology in watersheds with contrasting lithology*
-The structure of the subsurface is an important control where and how much runoff is generated in response to precipitation. Our modeling work suggests that it should also be an important control on landscape morphology as a result. To test this hypothesis I conducted a natural experiment, comparing two watersheds with strong lithology-driven contrast in subsurface properties but otherwise similar climate and geologic history. The project involved new hydrometric measurements and saturation surveys, in addition to DEM analysis and landscape evolution modeling. Paper is in prep.
+### *The emergence of variable source area hydrology*
+In my second paper I took this model further, focusing on how the hydrological function of landscapes coevolves with dynamic climate, soil moisture, and groundwater. I'm particularly interested in the emergence of variable source area runoff generation. In other words, I'm interested in knowing why some places evolve to have saturated areas that expand and contract in response to storms, while others don't. We found that coevolution produces a strong relationship between variably saturated area and relief, and where a landscape sits on that relationship is conditioned by subsurface permeability and thickness relative to climate. Preprint [is available here](www.doi.org/10.22541/essoar.167751635.59156916/v1){:target="_blank"}.
+
+### *Coevolved topography and runoff generation: a paired watershed study*
+<img align="left" width="800" src="assets/img/soldiers_delight.JPG"><br />
+How does the subsurface affect coevolved topography and runoff generation? This is a central question in [critical zone science](https://criticalzone.org/bedrock){:target="_blank"}, and has implications for how different landscapes will respond to climate change and water stress. Our model makes predictions that subsurface transmissivity is a primary control on topography and runoff generation. I'm making hydrometric measurements, conducting saturation surveys, and analyzing topography of two small watersheds with contrasting lithology to test model predictions. Paper is in prep.
 
 <br/>
 
@@ -25,13 +30,10 @@ The structure of the subsurface is an important control where and how much runof
 Steady-state drainage divides fall along the edges of Voronoi polygons separating point sinks, illuminating more general behavior of a simple landscape evolution model. See our poster [here](assets/docs/Poster_Litwin_CSDMS2019.pdf){:target="_blank"}.
 
 ### *Understanding controls on the form of flow duration curves*
-Mean fluxes alone, including baseflow, quickflow, and streamflwo explain quantiles in the flow duration curve across many environmental settings, suggesting emergent behavior of watersheds. See our poster [here](assets/docs/Poster_Litwin_Meira_AGU2018.pdf){:target="_blank"}.
+Mean fluxes, including baseflow, quickflow, and streamflow, alone explain quantiles in the flow duration curve across many environmental settings, suggesting emergent behavior of watersheds. See our poster [here](assets/docs/Poster_Litwin_Meira_AGU2018.pdf){:target="_blank"}.
 
 ### *Using electrical resistivity tomography to recover soil properties in a lysimeter*
 Soil properties at the Landscape Evolution Observatory in Arizona vary in space and may change with time. Theoretical modeling revealed the impact of measurement noise on our ability to determine soil porosity from ERT surveys. See our poster [here](assets/docs/Poster_Litwin_Meira_GSA2017.pdf){:target="_blank"}.
-
-### *Exploring patterns of fluid mixing downstream of small stream confluences*
-In-stream surveys of temperature, conductivity, and turbidity revealed that mixing lengths at one confluence were shorter than previously thought. See our poster [here](assets/docs/Poster_Litwin_Lewis_2016.pdf){:target="_blank"}.
 
 <br/>
 
@@ -60,6 +62,8 @@ My C.V. is [here](assets/docs/DavidLitwinCV.pdf){:target="_blank"}.
 <br/>
 
 # Science Communication and Service
+* [Water Underground](https://blogs.egu.eu/network/water-underground/){:target="_blank"}\
+I am a co-editor of the Water Underground blog hosted by the American Geophysical Union and the European Geosciences Union.
 * [Geobites](https://geobites.org/author/dlitwin/){:target="_blank"}\
 I write accessible summaries of peer-reviewed hydrology and geomorphology articles for science-curious audiences.
 * [American Geophysical Union Hydrology Section Student Subcommittee (H3S)](agu-h3s.org/){:target="_blank"}\
@@ -68,4 +72,4 @@ I served on H3S for the two year term 2020-2021, helping to establish their webs
 <br/>
 
 # Interests
-I like roadside geology, hiking, writing, reading fiction, playing the double bass, and sewing my own clothes.
+I like roadside geology, hiking, reading fiction, playing the double bass, and sewing my own clothes.

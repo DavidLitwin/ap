@@ -1,11 +1,11 @@
 # Site settings
 title: David G. Litwin
-baseurl: ""
-url: "localhost:4000"
+baseurl: "/ap"
+url: "davidlitwin.github.io" # localhost:4000 # 
 
 # Author
 author:
-  name: David G. Litwin, Ph.D
+  name: David G. Litwin, Ph.D.
   desc: Hydrologist | Postdoctoral Researcher
   descl2: Helmholtz Center GFZ Potsdam
   email: david.litwin@gfz-potsdam.de
