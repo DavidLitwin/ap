@@ -9,7 +9,7 @@ I am a postdoctoral researcher at GFZ Potsdam, the German Research Center for Ge
 
 # Current Research
 ### *The Birth and Death of Karst Landscapes*
-<img align="left" width="500" src="assets/img/karst_example.png"><br />
+<img align="left" width="800" src="assets/img/karst_example.png"><br />
 Carbonate landscapes often have poorly developed river networks, but are instead incredibly well drained by karst features through the bedrock iteself. This leads to challenges in hydrological characterisation, but also breaks conventional understanding of geomorphic response to tectonic signals, which are primarily transmitted by river networks. I am exploring these controls using reduced complexity landscape evolution, groundwater flow, and karst evolution models. Lecture at Cargese Flow and Transport Summer School coming soon on YouTube.
 
 ### *Channel-hillslope coupling in landscape evolution models*
