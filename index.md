@@ -3,37 +3,44 @@ layout: about
 ---
 
 # About Me
-I am a postdoctoral fellow at GFZ Potsdam, the German Research Center for Geosciences, in the Earth Surface Process Modelling section. I completed my Ph.D. at Johns Hopkins University in Baltimore, Maryland in 2023. I am interested in the movement of water through watersheds and the effects that this can have on the long-term evolution of landscapes and ecosystems. Understanding landscape history can help better model and manage water and ecosystems today and in an uncertain future. I build and use computational tools, and collect and analyze field data toward this aim.
+I am a postdoctoral researcher at GFZ Potsdam, the German Research Center for Geosciences, in the Earth Surface Process Modelling section. I completed my Ph.D. at Johns Hopkins University in Baltimore, Maryland in 2023. My current work focuses on the interplay between groundwater flow, subsurface structure, and geomorphic change. I build and use computational tools, collect and analyse field data in order to better understand what drives landscape form and hydrological function.
 
 <br/>
 
 # Current Research
-### *Groundwater and landscape evolution*
-My work at GFZ will be centered on the role of groundwater in processes that shape landscapes over long timescales. Project is TBD!
+### *The Birth and Death of Karst Landscapes*
+Carbonate landscapes often have poorly developed river networks, but are instead incredibly well drained by karst features through the bedrock iteself. This leads to challenges in hydrological characterisation, but also breaks conventional understanding of geomorphic response to tectonic signals, which are primarily transmitted by river networks. I am exploring these controls using reduced complexity landscape evolution, groundwater flow, and karst evolution models. Lecture at Cargese Flow and Transport Summer School coming soon on YouTube.
+
+### *Channel-hillslope coupling in landscape evolution models*
+Channel-hillslope models that combine streampower erosion and diffusion are ubiquitous in the geomorphic literature. The channel and hillslope component models each have particular sets of assumptions about how sediment behaves. Can these assumptions be maintained when they are coupled together? A preprint of this work will be out soon.  
+
+#### Looking for collaborations!
+Piqued your interest? Please [get in touch!](https://www.gfz-potsdam.de/en/staff/david.litwin/sec47){:target="_blank"}
 
 # Doctoral Research
 ### *Understanding the coevolution of topography and runoff generation*
 <img align="left" width="800" src="assets/img/hillshades.png"><br />
-Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. Typical landscape evolution models do not have adequate representations of hydrology to capture these feedbacks. In particular, they don't capture the importance of shallow subsurface flow for runoff generation. In my [first PhD paper](https://www.doi.org/10.1029/2021JF006239){:target="_blank"} I coupled hydrological and landscape evolution models and found we showed that hillslope length scales nonlinearly with subsurface transmissivity (permeability times thickness) under the influence of steady recharge (PDF [here](assets\docs\JGREarthSurface-2021-Litwin.pdf)).
+Topography affects how water is stored and released from watersheds, while over long timescales, flowing water shapes topography through erosion and incision of channel networks. In humid climates, most storm runoff is groundwater, even in large storms. Typical landscape evolution models do not account for this crucial role of subsurface flow. To investigate the coevolution of topography and runoff generation, I coupled hydrological and landscape evolution models and found that hillslope length scales nonlinearly with subsurface transmissivity (depth-integrated hydraulic conductivity) under the influence of steady recharge. The paper is available [here](https://www.doi.org/10.1029/2021JF006239){:target="_blank"}.
 
 ### *The emergence of variable source area hydrology*
-In my second paper I took this model further, focusing on how the hydrological function of landscapes coevolves with dynamic climate, soil moisture, and groundwater. I'm particularly interested in the emergence of variable source area runoff generation. In other words, I'm interested in knowing why some places evolve to have saturated areas that expand and contract in response to storms, while others don't. We found that coevolution produces a strong relationship between variably saturated area and relief, and where a landscape sits on that relationship is conditioned by subsurface permeability and thickness relative to climate. Preprint [is available here](www.doi.org/10.22541/essoar.167751635.59156916/v1){:target="_blank"}.
+<img align="left" width="800" src="assets/img/conceptual_figure.png"><br />
+Here I continued the exploration of coevolved topography and runoff generation, focusing on the emergent dynamics of saturated areas, which are the result of interplay between topography, subsurface properties, and climate. Our work suggests that coevolution may explain variation between these factors observed in the field. We thoroughly explore this topic in this extensive paper [here](https://doi.org/10.1029/2023WR034647){:target="_blank"}.
 
 ### *Coevolved topography and runoff generation: a paired watershed study*
 <img align="left" width="800" src="assets/img/soldiers_delight.JPG"><br />
-How does the subsurface affect coevolved topography and runoff generation? This is a central question in [critical zone science](https://criticalzone.org/bedrock){:target="_blank"}, and has implications for how different landscapes will respond to climate change and water stress. Our model makes predictions that subsurface transmissivity is a primary control on topography and runoff generation. I'm making hydrometric measurements, conducting saturation surveys, and analyzing topography of two small watersheds with contrasting lithology to test model predictions. Paper is in prep.
+Our modelling work suggested that transmissivity of the subsurface is a primary control on runoff generation and topographic evolution. I tested the applicability and limits of our model by comparison with field data from two small watersheds, including new measurements of saturated areas. We also developed a method to use topography, discharge, and saturation data to estimate transmissivity. A preprint is available [here](https://doi.org/10.22541/au.170869979.95102763/v1){:target="_blank"}.
 
 <br/>
 
 # Past Research
 ### *Drainage divide dynamics when point sinks set baselevel*
-Steady-state drainage divides fall along the edges of Voronoi polygons separating point sinks, illuminating more general behavior of a simple landscape evolution model. See our poster [here](assets/docs/Poster_Litwin_CSDMS2019.pdf){:target="_blank"}.
+Steady-state drainage divides fall along the edges of Voronoi polygons separating point sinks, illuminating more general behavior of a simple landscape evolution model.
 
 ### *Understanding controls on the form of flow duration curves*
-Mean fluxes, including baseflow, quickflow, and streamflow, alone explain quantiles in the flow duration curve across many environmental settings, suggesting emergent behavior of watersheds. See our poster [here](assets/docs/Poster_Litwin_Meira_AGU2018.pdf){:target="_blank"}.
+Mean fluxes, including baseflow, quickflow, and streamflow, alone explain quantiles in the flow duration curve across many environmental settings, suggesting emergent behavior of watersheds.
 
 ### *Using electrical resistivity tomography to recover soil properties in a lysimeter*
-Soil properties at the Landscape Evolution Observatory in Arizona vary in space and may change with time. Theoretical modeling revealed the impact of measurement noise on our ability to determine soil porosity from ERT surveys. See our poster [here](assets/docs/Poster_Litwin_Meira_GSA2017.pdf){:target="_blank"}.
+Soil properties at the Landscape Evolution Observatory in Arizona vary in space and may change with time. Theoretical modeling revealed the impact of measurement noise on our ability to determine soil porosity from ERT surveys.
 
 <br/>
 
@@ -63,13 +70,13 @@ My C.V. is [here](assets/docs/DavidLitwinCV.pdf){:target="_blank"}.
 
 # Science Communication and Service
 * [Water Underground](https://blogs.egu.eu/network/water-underground/){:target="_blank"}\
-I am a co-editor of the Water Underground blog hosted by the American Geophysical Union and the European Geosciences Union.
+I co-edited of the Water Underground blog hosted by the American Geophysical Union and the European Geosciences Union.
 * [Geobites](https://geobites.org/author/dlitwin/){:target="_blank"}\
-I write accessible summaries of peer-reviewed hydrology and geomorphology articles for science-curious audiences.
+I have written summaries of peer-reviewed hydrology and geomorphology articles for science-curious audiences.
 * [American Geophysical Union Hydrology Section Student Subcommittee (H3S)](agu-h3s.org/){:target="_blank"}\
-I served on H3S for the two year term 2020-2021, helping to establish their website and blog. Posts on the blog feature early career hydrologists and provide support and community resources.
+I served on H3S for the two year term 2020-2021, helping to establish their website and blog.
 
 <br/>
 
 # Interests
-I like roadside geology, hiking, reading fiction, playing the double bass, and sewing my own clothes.
+I like playing the double bass, climbing (usually plastic) rocks, hiking, reading fiction, and sewing my own clothes.
