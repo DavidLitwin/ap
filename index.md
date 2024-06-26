@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I am a postdoctoral researcher at GFZ Potsdam, the German Research Center for Geosciences, in the Earth Surface Process Modelling section. I completed my Ph.D. at Johns Hopkins University in Baltimore, Maryland in 2023. My current work focuses on the interplay between groundwater flow, subsurface structure, and geomorphic change. I build and use computational tools, collect and analyse field data in order to better understand what drives landscape form and hydrological function.
+I am a postdoctoral researcher at GFZ Potsdam, the German Research Center for Geosciences, in the [Earth Surface Process Modelling](https://www.gfz-potsdam.de/en/section/earth-surface-process-modelling/overview){:target="_blank"} section. I completed my Ph.D. in environmental engineering at Johns Hopkins University in Baltimore, Maryland in 2023. Previously, I received bachelor's degrees in civil engineering and music performance (separately, to be clear) from the University of Illinois at Urbana-Champaign in 2018. These days I use my engineering training to answer Earth science questions, predominantly thinking about interactions between hydrology and geomorphology at the landscape scale. My current work focuses on the interplay between groundwater flow, subsurface structure, and geomorphic change in karst landscapes. My toolkit includes purpose-built numerical models, digital elevation data, and hydro-geomorphic field data, with occasional forays into near-surface geophysics.
 
 <br/>
 
