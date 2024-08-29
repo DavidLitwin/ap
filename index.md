@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I am a postdoctoral researcher at GFZ Potsdam, the German Research Center for Geosciences, in the [Earth Surface Process Modelling](https://www.gfz-potsdam.de/en/section/earth-surface-process-modelling/overview){:target="_blank"} section. I completed my Ph.D. in environmental engineering at Johns Hopkins University in Baltimore, Maryland in 2023. Previously, I received bachelor's degrees in civil engineering and music performance (separately, to be clear) from the University of Illinois at Urbana-Champaign in 2018. These days I use my engineering training to answer Earth science questions, predominantly thinking about interactions between hydrology and geomorphology at the landscape scale. My current work focuses on the interplay between groundwater flow, subsurface structure, and geomorphic change in karst landscapes. My toolkit includes purpose-built numerical models, digital elevation data, and hydro-geomorphic field data, with occasional forays into near-surface geophysics.
+I am a postdoctoral researcher at GFZ Potsdam, the German Research Center for Geosciences, in the [Earth Surface Process Modelling](https://www.gfz-potsdam.de/en/section/earth-surface-process-modelling/overview){:target="_blank"} section. I completed my Ph.D. in environmental engineering at Johns Hopkins University in Baltimore, Maryland in 2023. Previously, I received bachelor's degrees in civil engineering and music performance (separately, to be clear) from the University of Illinois at Urbana-Champaign in 2018. These days I use my engineering training to answer Earth science questions, predominantly thinking about interactions between hydrology and geomorphology at the landscape scale. My toolkit includes purpose-built numerical models, digital elevation data, and hydro-geomorphic field data, with occasional forays into near-surface geophysics.
 
 <br/>
 
@@ -13,7 +13,7 @@ I am a postdoctoral researcher at GFZ Potsdam, the German Research Center for Ge
 Carbonate landscapes often have poorly developed river networks, but are instead incredibly well drained by karst features through the bedrock iteself. This leads to challenges in hydrological characterisation, but also breaks conventional understanding of geomorphic response to tectonic signals, which are primarily transmitted by river networks. I am exploring these controls using reduced complexity landscape evolution, groundwater flow, and karst evolution models. Lecture at Cargese Flow and Transport Summer School coming soon on YouTube.
 
 ### *Channel-hillslope coupling in landscape evolution models*
-Channel-hillslope models that combine streampower erosion and diffusion are ubiquitous in the geomorphic literature. The channel and hillslope component models each have particular sets of assumptions about how sediment behaves. Can these assumptions be maintained when they are coupled together? A preprint of this work will be out soon.  
+Channel-hillslope models that combine streampower erosion and diffusion are ubiquitous in the geomorphic literature. The channel and hillslope component models each have particular sets of assumptions about how sediment behaves. Can these assumptions be maintained when they are coupled together? A preprint is available [here](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2418/){:target="_blank"}.
 
 #### Looking for collaborations!
 Piqued your interest? Please [get in touch!](https://www.gfz-potsdam.de/en/staff/david.litwin/sec47){:target="_blank"}
@@ -25,7 +25,7 @@ Topography affects how water is stored and released from watersheds, while over 
 
 ### *The emergence of variable source area hydrology*
 <img align="left" width="800" src="assets/img/conceptual_figure.png"><br />
-Here I continued the exploration of coevolved topography and runoff generation, focusing on the emergent dynamics of saturated areas, which are the result of interplay between topography, subsurface properties, and climate. Our work suggests that coevolution may explain variation between these factors observed in the field. We thoroughly explore this topic in this extensive paper [here](https://doi.org/10.1029/2023WR034647){:target="_blank"}.
+Here I continued the exploration of coevolved topography and runoff generation, focusing on the emergent dynamics of saturated areas, which are the result of interplay between topography, subsurface properties, and climate. Our work suggests that coevolution may explain variation between these factors observed in the field. We explore this topic in this extensive paper [here](https://doi.org/10.1029/2023WR034647){:target="_blank"}.
 
 ### *Evidence of subsurface control on the coevolution of hillslope morphology and runoff generation*
 <img align="left" width="800" src="assets/img/soldiers_delight.JPG"><br />
