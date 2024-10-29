@@ -29,7 +29,7 @@ Here I continued the exploration of coevolved topography and runoff generation, 
 
 ### *Evidence of subsurface control on the coevolution of hillslope morphology and runoff generation*
 <img align="left" width="800" src="assets/img/soldiers_delight.JPG"><br />
-Our modelling work suggested that transmissivity of the subsurface is a primary control on runoff generation and topographic evolution. I tested the applicability and limits of our model by comparison with field data from two small watersheds, including new measurements of saturated areas. We also developed a method to use topography, discharge, and saturation data to estimate transmissivity. A preprint is available [here](https://doi.org/10.22541/au.170869979.95102763/v1){:target="_blank"}.
+Our modelling work suggested that transmissivity of the subsurface is a primary control on runoff generation and topographic evolution. I tested the applicability and limits of our model by comparison with field data from two small watersheds, including new measurements of saturated areas. We also developed a method to use topography, discharge, and saturation data to estimate transmissivity. The paper is available [here](https://onlinelibrary.wiley.com/doi/abs/10.1029/2024WR037301){:target="_blank"}.
 
 <br/>
 
@@ -55,9 +55,11 @@ Publications can be found on [Google Scholar](https://scholar.google.com/citatio
 I've built tools for my work that I hope can also benefit the Earth science community. All are open-source, most are well-documented and have extensive unit tests.
 * [DupuitLEM](https://github.com/DavidLitwin/DupuitLEM)\
   Modular modeling toolkit for groundwater-driven landscape evolution built with [Landlab](landlab.readthedocs.io/) tools.
-* [GroundwaterDupuitPercolator](https://landlab.readthedocs.io/en/master/reference/components/groundwater.html)\
+* [Karst LEM](https://github.com/DavidLitwin/karst-lem)\
+  Simple approaches to carbonate landscape evolution with groundwater in Landlab.
+* [GroundwaterDupuitPercolator](https://landlab.readthedocs.io/en/latest/generated/api/landlab.components.groundwater.dupuit_percolator.html)\
   Landlab component for shallow groundwater flow.
-* [HeightAboveDrainageCalculator](https://landlab.readthedocs.io/en/master/reference/components/hand_calculator.html)\
+* [HeightAboveDrainageCalculator](https://landlab.readthedocs.io/en/latest/generated/api/landlab.components.hand_calculator.hand_calculator.html)\
   Landlab component for calculating the height above the nearest drainage point.
 * [Spectral solution for hillslope diffusion](https://github.com/DavidLitwin/SpectralDiffusion)\
   An implicit-spectral solution to hillslope evolution using Landlab tools.
@@ -74,7 +76,7 @@ My C.V. is [here](assets/docs/DavidLitwinCV.pdf){:target="_blank"}.
 I co-edited of the Water Underground blog hosted by the American Geophysical Union and the European Geosciences Union.
 * [Geobites](https://geobites.org/author/dlitwin/){:target="_blank"}\
 I have written summaries of peer-reviewed hydrology and geomorphology articles for science-curious audiences.
-* [American Geophysical Union Hydrology Section Student Subcommittee (H3S)](agu-h3s.org/){:target="_blank"}\
+* [American Geophysical Union Hydrology Section Student Subcommittee (H3S)](https://www.agu-h3s.org/){:target="_blank"}\
 I served on H3S for the two year term 2020-2021, helping to establish their website and blog.
 
 <br/>
