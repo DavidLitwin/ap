@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "New papers"
+---
+
+
+## New Papers
+### Channel-hillslope coupling preprint available
+When I first started at GFZ, I was learning all I could about karst systems for my main project. But at the same time, I was still interested in some of the fundamental dynamics of the streampower+diffusion landscape evolution model that underlies my dissertation work, and has become ubiquitous in landscape evolution studies today. I noticed something in particular about the channels in the 2D streampower+diffusion model -- they were much steeper than would be expected from the 1D streampower law alone. In investigating this further, I found that the amount steepness increased could be expressed in terms of the model parameters, even though a full analytical solution for the 2D model is not tractable. Then Luca Malatesta and I spent some time talking with bedrock river expert Leonard Sklar about how landscape evolution models represent hillslope-channel coupling more generally, and how that compares with the real world. The result is a paper that brings new light to sediment transport in simple ubiquitous landscape evolution models, and offers some tools for using them effectively despite their limitations. Our [paper](https://esurf.copernicus.org/articles/13/277/2025/) is now up at ESurf. 
+
+### Collaboration on climatic and hydrological effects on seismic shaking
+One of the great things about GFZ is the number of people working on Earth science topics on the same campus. This brings about opportunities for collaboration, potentially across disciplinary boundaries. This past spring, I started collaborating on a project outside my usual realm, earthquakes, but to which I could bring some insights into hydrological processes. The study is led by Annabel Haendel and includes members of the seismology section at GFZ. It focuses on an observation the difference in the amplitude of high frequency seismic shaking between surface and borehole seismometers changes substantially with the seasons at some stations in Japan. This is a parameter that has historically been treated as a constant, but climate or hydrological conditions that vary seasonally do seem to matter. Many hydrological and climatic variables change with the seasons though, so our task is to try to determine the mosst likely source. The first [paper](https://seismica.library.mcgill.ca/article/view/1425) on this topic is available now at Seismica. 
+
