@@ -6,7 +6,7 @@ url: "davidlitwin.github.io" # localhost:4000 #
 # Author
 author:
   name: David G. Litwin, Ph.D.
-  desc: Postdoctoral Researcher
+  desc: Temple University Assistant Professor of Instruction
   descl2: Hydrology | Geomorphology | Critical Zone Science
   email: david.litwin@gfz-potsdam.de
   selfie: assets/img/profile.jpg
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: DavidGLitwin
+  twitter:
   vimeo:
   wordpress:
   youtube:
