@@ -63,11 +63,11 @@ My C.V. is [here](assets/docs/DavidLitwinCV.pdf){:target="_blank"}.
 
 # Teaching
 * [Temple University](https://cst.temple.edu/research-priorities-departments/departments/department-earth-environmental-science)\
-  Environmental Senior Seminar (Fall 2025)
+  Environmental Senior Seminar (Fall 2025)\
   Elements of Data Science (Fall 2025)
 * [Johns Hopkins University](https://publichealth.jhu.edu/departments/environmental-health-and-engineering)\
-  Gateway Computing: Python (Spring 2021, TA)
-  Hydrology (Fall 2018, Spring 2020, TA)
+  Gateway Computing: Python (Spring 2021, TA)\
+  Hydrology (Fall 2018, Spring 2020, TA)\
   Critical Zone Science Seminar (Spring 2019)
 
 <br/>
