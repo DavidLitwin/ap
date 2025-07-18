@@ -4,8 +4,7 @@ title:  "New papers"
 ---
 
 
-## New Papers
-### Channel-hillslope coupling preprint available
+### Channel-hillslope coupling paper published
 When I first started at GFZ, I was learning all I could about karst systems for my main project. But at the same time, I was still interested in some of the fundamental dynamics of the streampower+diffusion landscape evolution model that underlies my dissertation work, and has become ubiquitous in landscape evolution studies today. I noticed something in particular about the channels in the 2D streampower+diffusion model -- they were much steeper than would be expected from the 1D streampower law alone. In investigating this further, I found that the amount steepness increased could be expressed in terms of the model parameters, even though a full analytical solution for the 2D model is not tractable. Then Luca Malatesta and I spent some time talking with bedrock river expert Leonard Sklar about how landscape evolution models represent hillslope-channel coupling more generally, and how that compares with the real world. The result is a paper that brings new light to sediment transport in simple ubiquitous landscape evolution models, and offers some tools for using them effectively despite their limitations. Our [paper](https://esurf.copernicus.org/articles/13/277/2025/) is now up at ESurf. 
 
 ### Collaboration on climatic and hydrological effects on seismic shaking
